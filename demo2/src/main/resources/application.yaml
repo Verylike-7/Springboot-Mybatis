@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/bank?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: 123456
+
+mybatis:
+  type-aliases-package: com.swjd.demo2.pojo # mybatis 别名扫描
+  mapper-locations: classpath:mappers/*.xml # mapper.xml文件位置
+  configuration:
+    map-underscore-to-camel-case: true # 驼峰映射
+logging:
+  level:
+    com.swjd: debug #开启DUBUG级别日志

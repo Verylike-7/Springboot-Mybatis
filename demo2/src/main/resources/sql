@@ -1,0 +1,10 @@
+create database bank charset utf8;
+CREATE TABLE `tb_account`  (
+  `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT COMMENT '主键',
+  `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL COMMENT '账户名称',
+  `money` bigint(20) UNSIGNED NOT NULL DEFAULT 0 COMMENT '账户余额，单位是分',
+  PRIMARY KEY (`id`) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 3 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci ROW_FORMAT = Compact;
+
+INSERT INTO `tb_account` VALUES (1, '虎哥', 1000);
+INSERT INTO `tb_account` VALUES (2, '虎妹', 1000);

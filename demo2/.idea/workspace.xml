@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eae8198-5676-43a8-85ea-8fbbad4d434f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repo" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20ey5LC6A43FoOjgEsdhZ2dOKda" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/maven/repo/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.swjd.demo2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.swjd.demo2.Demo2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eae8198-5676-43a8-85ea-8fbbad4d434f" name="Default Changelist" comment="" />
+      <created>1636419163831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636419163831</updated>
+      <workItem from="1636419165832" duration="5047000" />
+      <workItem from="1636424336845" duration="234000" />
+      <workItem from="1636424811240" duration="5631000" />
+      <workItem from="1636438090112" duration="1248000" />
+      <workItem from="1636447505830" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Inspections" timestamp="1636420612276">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1636420612276" />
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636424826589">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1636424826589" />
+    <state x="486" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636419997053">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="486" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1636419997053" />
+    <state x="365" y="357" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1636420308177">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="365" y="357" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1636420308177" />
+    <state x="548" y="312" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1636420309134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="312" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.864@0.0.1536.864" timestamp="1636420309134" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1636424569849">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1636424569849" />
+    <state width="1493" height="166" key="GridCell.Tab.0.bottom" timestamp="1636439348783">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1636439348783" />
+    <state width="1493" height="166" key="GridCell.Tab.0.center" timestamp="1636439348783">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1636439348783" />
+    <state width="1493" height="166" key="GridCell.Tab.0.left" timestamp="1636439348783">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1636439348783" />
+    <state width="1493" height="166" key="GridCell.Tab.0.right" timestamp="1636439348783">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1636439348783" />
+    <state width="1493" height="166" key="GridCell.Tab.1.bottom" timestamp="1636439348783">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1636439348783" />
+    <state width="1493" height="166" key="GridCell.Tab.1.center" timestamp="1636439348783">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1636439348783" />
+    <state width="1493" height="166" key="GridCell.Tab.1.left" timestamp="1636439348783">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1636439348783" />
+    <state width="1493" height="166" key="GridCell.Tab.1.right" timestamp="1636439348783">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1636439348783" />
+  </component>
+</project>
